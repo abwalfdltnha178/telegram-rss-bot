@@ -6,7 +6,6 @@ $rss_list = [
     "https://digiato.com/feed/",
     "https://www.itna.ir/rssb5.0.xml?sectionsid=2",
     "https://www.mehrnews.com/rss/tp/8"
-    "https://toranji.ir/feed/"
 ];
 
 foreach ($rss_list as $rss_url) {
